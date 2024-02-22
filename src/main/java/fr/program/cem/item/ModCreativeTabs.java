@@ -32,6 +32,7 @@ public class ModCreativeTabs {
                         // Accepting blocks from the mod
                         pOutput.accept(ModBlocks.ZOMB_DIRT.get());
                         pOutput.accept(ModBlocks.SKEL_DIRT.get());
+                        pOutput.accept(ModBlocks.BLAZE_DIRT.get());
                     })
                     .build()); // Set icon of the tab to Sapphire
 }

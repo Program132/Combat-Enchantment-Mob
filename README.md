@@ -29,9 +29,10 @@ The controller is the block that will give you the permission to have the enchan
 ### Craft 
 
 Items/Blocks required : 
-- 4 Zomb Dirt
-- 4 Skel Dirt
-- 1 Diamond
+- 3 Zomb Dirt
+- 3 Skel Dirt
+- 2 Blaze Dirt
+- 2 Diamond
 
 ### How to use it 
 
@@ -52,6 +53,8 @@ Items required : 8 bones + 1 dirt
 ## Blaze Dirt
 
 Items required : 8 blaze rods + 1 dirt
+
+![img.png](imgs/blaze_dirt.png)
 
 ## Sharpness Zomb
 

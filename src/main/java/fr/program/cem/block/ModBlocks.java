@@ -40,4 +40,8 @@ public class ModBlocks {
     public static final RegistryObject<Block> SKEL_DIRT = registerBlock("skel_dirt",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.DIRT)
                     .sound(SoundType.ROOTED_DIRT)));
+
+    public static final RegistryObject<Block> BLAZE_DIRT = registerBlock("blaze_dirt",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.DIRT)
+                    .sound(SoundType.ROOTED_DIRT)));
 }
