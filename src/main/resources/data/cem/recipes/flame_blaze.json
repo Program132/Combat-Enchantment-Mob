@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#D#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_rod"
+    },
+    "D": {
+      "item": "minecraft:bow"
+    }
+  },
+  "result": {
+    "item": "cem:flame_blaze",
+    "count": 1
+  }
+}

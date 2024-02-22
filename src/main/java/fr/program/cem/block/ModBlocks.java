@@ -1,6 +1,7 @@
 package fr.program.cem.block;
 
 import fr.program.cem.TutoMod;
+import fr.program.cem.block.custom.Controller;
 import fr.program.cem.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
@@ -34,14 +35,23 @@ public class ModBlocks {
     }
 
     public static final RegistryObject<Block> ZOMB_DIRT = registerBlock("zomb_dirt",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.DIRT)
+            () -> new Block(BlockBehaviour.Properties
+                    .copy(Blocks.DIRT)
                     .sound(SoundType.ROOTED_DIRT)));
 
     public static final RegistryObject<Block> SKEL_DIRT = registerBlock("skel_dirt",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.DIRT)
+            () -> new Block(BlockBehaviour.Properties
+                    .copy(Blocks.DIRT)
                     .sound(SoundType.ROOTED_DIRT)));
 
     public static final RegistryObject<Block> BLAZE_DIRT = registerBlock("blaze_dirt",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.DIRT)
+            () -> new Block(BlockBehaviour.Properties
+                    .copy(Blocks.DIRT)
                     .sound(SoundType.ROOTED_DIRT)));
+
+    public static final RegistryObject<Block> CONTROLLER = registerBlock("controller",
+            () -> new Controller(BlockBehaviour.Properties
+                    .copy(Blocks.IRON_BLOCK)
+                    .sound(SoundType.ANVIL)
+            ));
 }

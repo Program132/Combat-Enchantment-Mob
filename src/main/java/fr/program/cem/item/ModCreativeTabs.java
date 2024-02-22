@@ -31,12 +31,16 @@ public class ModCreativeTabs {
                         pOutput.accept(ModItems.UNBREAKING_SKEL.get());
                         pOutput.accept(ModItems.LOOTING_SKEL.get());
                         pOutput.accept(ModItems.POWER_SKEL.get());
+                        pOutput.accept(ModItems.FIRE_PROTECTION_BLAZE.get());
+                        pOutput.accept(ModItems.FIRE_ASPECT_BLAZE.get());
+                        pOutput.accept(ModItems.FLAME_BLAZE.get());
 
 
                         // Accepting blocks from the mod
                         pOutput.accept(ModBlocks.ZOMB_DIRT.get());
                         pOutput.accept(ModBlocks.SKEL_DIRT.get());
                         pOutput.accept(ModBlocks.BLAZE_DIRT.get());
+                        pOutput.accept(ModBlocks.CONTROLLER.get());
                     })
                     .build()); // Set icon of the tab to Sapphire
 }

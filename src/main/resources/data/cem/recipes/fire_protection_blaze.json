@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#D#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_rod"
+    },
+    "D": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "cem:fire_protection_blaze",
+    "count": 1
+  }
+}

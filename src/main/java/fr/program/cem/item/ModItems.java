@@ -46,4 +46,20 @@ public class ModItems {
             () -> new Item(
                     new Item.Properties()
             ));
+
+
+    public static final RegistryObject<Item> FIRE_PROTECTION_BLAZE = ITEMS.register("fire_protection_blaze",
+            () -> new Item(
+                    new Item.Properties()
+            ));
+
+    public static final RegistryObject<Item> FIRE_ASPECT_BLAZE = ITEMS.register("fire_aspect_blaze",
+            () -> new Item(
+                    new Item.Properties()
+            ));
+
+    public static final RegistryObject<Item> FLAME_BLAZE = ITEMS.register("flame_blaze",
+            () -> new Item(
+                    new Item.Properties()
+            ));
 }

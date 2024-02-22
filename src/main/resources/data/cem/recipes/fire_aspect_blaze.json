@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#D#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_rod"
+    },
+    "D": {
+      "item": "minecraft:flint_and_steel"
+    }
+  },
+  "result": {
+    "item": "cem:fire_aspect_blaze",
+    "count": 1
+  }
+}

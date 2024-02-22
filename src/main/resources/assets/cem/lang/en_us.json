@@ -10,8 +10,13 @@
   "item.cem.looting_skel": "Looting Skel",
   "item.cem.power_skel": "Power Skel",
 
+  "item.cem.fire_protection_blaze": "Fire Protection Blaze",
+  "item.cem.fire_aspect_blaze": "Fire Aspect Blaze",
+  "item.cem.flame_blaze": "Flame Blaze",
+
 
   "block.cem.zomb_dirt": "Zomb Dirt",
   "block.cem.skel_dirt": "Skel Dirt",
-  "block.cem.blaze_dirt": "Blaze Dirt"
+  "block.cem.blaze_dirt": "Blaze Dirt",
+  "block.cem.controller": "Controller"
 }

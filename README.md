@@ -32,7 +32,9 @@ Items/Blocks required :
 - 3 Zomb Dirt
 - 3 Skel Dirt
 - 2 Blaze Dirt
-- 2 Diamond
+- 1 Diamond
+
+![img.png](imgs/controller.png)
 
 ### How to use it 
 
@@ -46,9 +48,9 @@ Items required : 8 rotten flesh + 1 dirt
 
 ## Skel Dirt
 
-![img.png](imgs/skel_dirt.png)
-
 Items required : 8 bones + 1 dirt
+
+![img.png](imgs/skel_dirt.png)
 
 ## Blaze Dirt
 
@@ -91,3 +93,32 @@ Items required : 4 bone + 1 diamond shovel
 Items required : 4 bone + 1 bow
 
 ![img.png](imgs/power_skel.png)
+
+## Fire Protection Blaze
+
+Items required : 4 blaze rod + 1 lava bucket
+
+![img.png](imgs/fire_protection_blaze.png)
+
+## Fire Aspect Blaze
+
+Items required : 4 blaze rod + 1 fint and steel
+
+![img.png](imgs/fire_aspect_blaze.png)
+
+## Flame Blaze
+
+Items required : 4 blaze rod + 1 bow
+
+![img.png](imgs/flame_blaze.png)
+
+
+# Example
+
+## Sharpness + Sword
+
+[![Watch the video](https://imgs.search.brave.com/D5HSF_e6cDYsLKJXX9AAI7UDmBpNsI2M5PSpmguYpbg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE0/LzAyL21pbmVjcmFm/dC1sb2dvLTAucG5n)](imgs/ex1.mp4)
+
+## Sharpness + Sharpness
+
+[![Watch the video](https://imgs.search.brave.com/D5HSF_e6cDYsLKJXX9AAI7UDmBpNsI2M5PSpmguYpbg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE0/LzAyL21pbmVjcmFm/dC1sb2dvLTAucG5n)](imgs/ex2.mp4)
