@@ -37,9 +37,7 @@ Items/Blocks required :
 
 Do a right click on it with your item crafted.
 
-## Zomb Dirt 
-
-### Craft 
+## Zomb Dirt
 
 Items required : 8 rotten flesh + 1 dirt
 
@@ -49,12 +47,26 @@ Items required : 8 rotten flesh + 1 dirt
 
 ![img.png](imgs/skel_dirt.png)
 
-### Craft
-
 Items required : 8 bones + 1 dirt
 
 ## Blaze Dirt
 
-### Craft
-
 Items required : 8 blaze rods + 1 dirt
+
+## Sharpness Zomb
+
+Items required : 4 rotten flesh + 1 diamond sword
+
+![img.png](imgs/sharpness_zomb.png)
+
+## Protection Zomb
+
+Items required : 4 rotten flesh + 1 diamond chestplate
+
+![img.png](imgs/protection_zomb.png)
+
+## Knockback Zomb
+
+Items required : 4 rotten flesh + 1 stick
+
+![img.png](imgs/knockback_zomb.png)
