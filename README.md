@@ -13,13 +13,12 @@ List of enchanted books available :
 - Sharpness I
 - Knockback I
 - Protection I
-- Fire Protection I
 - Unbreaking I
+- Looting I
+- Power I
+- Fire Protection I
 - Fire Aspect I
-- Flame
-- Looting
-- Infinity
-- Power
+- Flame I
 
 To get these books, you will have to craft some items and create the main block to "transform" your item.
 
@@ -42,11 +41,20 @@ Do a right click on it with your item crafted.
 
 ### Craft 
 
-Items required : 9 rotten flesh
+Items required : 8 rotten flesh + 1 dirt
 
+![img.png](imgs/zomb_dirt.png)
 
 ## Skel Dirt
 
+![img.png](imgs/skel_dirt.png)
+
 ### Craft
 
-Items required : 9 bones
+Items required : 8 bones + 1 dirt
+
+## Blaze Dirt
+
+### Craft
+
+Items required : 8 blaze rods + 1 dirt

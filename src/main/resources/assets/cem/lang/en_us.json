@@ -1,7 +1,9 @@
 {
   "creativetab.cem_tab": "CEM Tab",
 
-  "item.cem.sapphire": "Sapphire",
+  "item.cem.sharpness_zomb": "Sharpness Zomb",
+  "item.cem.knockback_zomb": "Knockback Zomb",
+  "item.cem.protection_zomb": "Protection Zomb",
 
   "block.cem.zomb_dirt": "Zomb Dirt",
   "block.cem.skel_dirt": "Skel Dirt"

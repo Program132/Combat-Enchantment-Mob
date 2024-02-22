@@ -25,7 +25,9 @@ public class ModCreativeTabs {
                     .title(Component.translatable("creativetab.cem_tab"))
                     .displayItems((pParameters, pOutput) -> {
                         // Accepting items from the mod
-                        pOutput.accept(ModItems.RAW_SAPPHIRE.get());
+                        pOutput.accept(ModItems.SHARPNESS_ZOMB.get());
+                        pOutput.accept(ModItems.KNOCKBACK_ZOMB.get());
+                        pOutput.accept(ModItems.PROTECTION_ZOMB.get());
 
                         // Accepting blocks from the mod
                         pOutput.accept(ModBlocks.ZOMB_DIRT.get());

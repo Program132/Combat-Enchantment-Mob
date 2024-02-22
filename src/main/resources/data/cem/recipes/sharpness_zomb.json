@@ -2,16 +2,16 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "###",
+    " # ",
     "#D#",
-    "###"
+    " # "
   ],
   "key": {
     "#": {
       "item": "minecraft:rotten_flesh"
     },
     "D": {
-      "item": "minecraft:dirt"
+      "item": "minecraft:diamond_sword"
     }
   },
   "result": {

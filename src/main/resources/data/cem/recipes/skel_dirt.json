@@ -3,12 +3,15 @@
   "category": "misc",
   "pattern": [
     "###",
-    "###",
+    "#D#",
     "###"
   ],
   "key": {
     "#": {
       "item": "minecraft:bone"
+    },
+    "D": {
+      "item": "minecraft:dirt"
     }
   },
   "result": {

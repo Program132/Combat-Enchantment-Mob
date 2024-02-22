@@ -16,7 +16,17 @@ public class ModItems {
     }
 
     // Items
-    public static final RegistryObject<Item> RAW_SAPPHIRE = ITEMS.register("raw_sapphire",
+    public static final RegistryObject<Item> SHARPNESS_ZOMB = ITEMS.register("sharpness_zomb",
+            () -> new Item(
+                    new Item.Properties()
+            ));
+
+    public static final RegistryObject<Item> KNOCKBACK_ZOMB = ITEMS.register("knockback_zomb",
+            () -> new Item(
+                    new Item.Properties()
+            ));
+
+    public static final RegistryObject<Item> PROTECTION_ZOMB = ITEMS.register("protection_zomb",
             () -> new Item(
                     new Item.Properties()
             ));
