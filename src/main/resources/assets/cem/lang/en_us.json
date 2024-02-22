@@ -1,9 +1,15 @@
 {
   "creativetab.cem_tab": "CEM",
 
+
   "item.cem.sharpness_zomb": "Sharpness Zomb",
   "item.cem.knockback_zomb": "Knockback Zomb",
   "item.cem.protection_zomb": "Protection Zomb",
+
+  "item.cem.unbreaking_skel": "Unbreaking Skel",
+  "item.cem.looting_skel": "Looting Skel",
+  "item.cem.power_skel": "Power Skel",
+
 
   "block.cem.zomb_dirt": "Zomb Dirt",
   "block.cem.skel_dirt": "Skel Dirt",

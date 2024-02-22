@@ -28,6 +28,10 @@ public class ModCreativeTabs {
                         pOutput.accept(ModItems.SHARPNESS_ZOMB.get());
                         pOutput.accept(ModItems.KNOCKBACK_ZOMB.get());
                         pOutput.accept(ModItems.PROTECTION_ZOMB.get());
+                        pOutput.accept(ModItems.UNBREAKING_SKEL.get());
+                        pOutput.accept(ModItems.LOOTING_SKEL.get());
+                        pOutput.accept(ModItems.POWER_SKEL.get());
+
 
                         // Accepting blocks from the mod
                         pOutput.accept(ModBlocks.ZOMB_DIRT.get());

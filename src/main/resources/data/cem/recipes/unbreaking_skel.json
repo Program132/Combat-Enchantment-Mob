@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#D#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone"
+    },
+    "D": {
+      "item": "minecraft:anvil"
+    }
+  },
+  "result": {
+    "item": "cem:unbreaking_skel",
+    "count": 1
+  }
+}

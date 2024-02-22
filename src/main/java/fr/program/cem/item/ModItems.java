@@ -30,4 +30,20 @@ public class ModItems {
             () -> new Item(
                     new Item.Properties()
             ));
+
+
+    public static final RegistryObject<Item> UNBREAKING_SKEL = ITEMS.register("unbreaking_skel",
+            () -> new Item(
+                    new Item.Properties()
+            ));
+
+    public static final RegistryObject<Item> LOOTING_SKEL = ITEMS.register("looting_skel",
+            () -> new Item(
+                    new Item.Properties()
+            ));
+
+    public static final RegistryObject<Item> POWER_SKEL = ITEMS.register("power_skel",
+            () -> new Item(
+                    new Item.Properties()
+            ));
 }

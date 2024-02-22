@@ -73,3 +73,21 @@ Items required : 4 rotten flesh + 1 diamond chestplate
 Items required : 4 rotten flesh + 1 stick
 
 ![img.png](imgs/knockback_zomb.png)
+
+## Unbreaking Skel
+
+Items required : 4 bone + 1 anvil
+
+![img.png](imgs/unbreaking_skel.png)
+
+## Looting Skel
+
+Items required : 4 bone + 1 diamond shovel
+
+![img.png](imgs/looting_skel.png)
+
+## Power Skel
+
+Items required : 4 bone + 1 bow
+
+![img.png](imgs/power_skel.png)

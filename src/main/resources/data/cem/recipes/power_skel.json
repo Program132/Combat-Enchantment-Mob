@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#D#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone"
+    },
+    "D": {
+      "item": "minecraft:bow"
+    }
+  },
+  "result": {
+    "item": "cem:power_skel",
+    "count": 1
+  }
+}
